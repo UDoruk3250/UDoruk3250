@@ -38,7 +38,7 @@ _Can contribute to any open source projects -especially if it's about bioinforma
 ![Location](https://img.shields.io/badge/Location-Istanbul/Turkey-blue)
 
 ## Programming Languages/Programs:
-<a>
+<p1>
     <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python" alt="Python" > <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=C" alt="C" >
     <img src="https://img.shields.io/badge/C++-purple?style=flat-square&logo=cplusplus" alt="C++" >
     <img src="https://img.shields.io/badge/C﹟-blue?style=flat-square&logo=csharp" alt="C﹟">
@@ -55,7 +55,7 @@ _Can contribute to any open source projects -especially if it's about bioinforma
     <img src="https://img.shields.io/badge/Gradle-darkgray?style=flat-square&logo=gradle" alt="gradle">
     <img src="https://img.shields.io/badge/IFTTT-darkblue?style=flat-square&logo=ifttt" alt="ifttt">
     <img src="https://img.shields.io/badge/JSON-black?style=flat-square&logo=json" alt="json">
-</a>
+</p1>
 
 
 
