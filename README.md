@@ -39,8 +39,7 @@ _Can contribute to any open source projects -especially if it's about bioinforma
 
 ## Programming Languages/Programs:
 <a>
-    <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python" alt="Python" >
-    <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=C" alt="C" >
+    <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python" alt="Python" > <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=C" alt="C" >
     <img src="https://img.shields.io/badge/C++-purple?style=flat-square&logo=cplusplus" alt="C++" >
     <img src="https://img.shields.io/badge/C﹟-blue?style=flat-square&logo=csharp" alt="C﹟">
     <img src="https://img.shields.io/badge/Javascript-lightyellow?style=flat-square&logo=javascript" alt="javascript">
