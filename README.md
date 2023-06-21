@@ -23,7 +23,6 @@
 <a href="https://replit.com/@UDoruk3250">
         <img src="https://img.shields.io/badge/Replit-black?style=flat-square&logo=replit" alt="PyPI" >
 </a>
-
 <a href="whatsapp://send?text=&phone=905324403250">
         <img src="https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp" alt="WhatsApp" >
 </a>
