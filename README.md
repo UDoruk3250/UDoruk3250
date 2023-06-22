@@ -49,7 +49,7 @@ _Can contribute to any open source projects -especially if it's about bioinforma
     <img src="https://img.shields.io/badge/Android Studio-darkgreen?style=flat-square&logo=androidstudio" alt="androidstudio">
     <img src="https://img.shields.io/badge/Atom-darkred?style=flat-square&logo=atom" alt="atom">
     <img src="https://img.shields.io/badge/Blender-white?style=flat-square&logo=blender" alt="blender">
-    <img src="https://img.shields.io/badge/Java-darkorange?style=flat-square&logo=coffeescript" alt="Java">
+    <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=coffeescript" alt="Java">
     <img src="https://img.shields.io/badge/Eclipse IDE-blue?style=flat-square&logo=eclipseide" alt="Eclipse IDE">
     <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter" alt="Flutter">
     <img src="https://img.shields.io/badge/Gimp-gray?style=flat-square&logo=gimp" alt="gimp">
