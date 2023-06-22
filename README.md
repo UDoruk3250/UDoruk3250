@@ -39,7 +39,7 @@
 
 I'm Doruk Alp Uzunarslan. I'm 14 years old and I live in Istanbul, Turkey. I'm always up for something new. I'm eager to learn new programming languages. 
 
-_Can contribute to any open source projects -especially if it's about bioinformatics-_
+_Can contribute to any open source project -especially if it's about bioinformatics-_
 
 ----
 ![Author](https://img.shields.io/badge/Author-UDoruk3250-brightgreen)
