@@ -17,6 +17,10 @@
         <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram" alt="Instagram" >
 </a>
 
+<a href="https://leetcode.com/UDoruk3250/">
+        <img src="https://img.shields.io/badge/Leetcode-black?style=flat-square&logo=leetcode" alt="leetcode">
+</a>
+
 <a href="https://pypi.org/user/UDoruk3250/">
         <img src="https://img.shields.io/badge/PyPI-lightyellow?style=flat-square&logo=pypi" alt="PyPI" >
 </a>
@@ -75,11 +79,18 @@ _Can contribute to any open source projects -especially if it's about bioinforma
     <img src="https://img.shields.io/badge/Sublime Text-gray?style=flat-square&logo=sublimetext" alt="sublimetext">
     <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" alt="unity">
     <img src="https://img.shields.io/badge/VMware-orange?style=flat-square&logo=vmware" alt="vmware">
-    <img src="https://img.shields.io/badge/VMware-orange?style=flat-square&logo=vmware" alt="vmware">
+    <img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark" alt="wireshark">
 
-    
 </p>
+----
+## Operating Systems I use:
+<p align="left">
+    <img src="https://img.shields.io/badge/Windows 10-blue?style=flat-square&logo=windows" alt="windows10">
+    <img src="https://img.shields.io/badge/Windows XP-blue?style=flat-square&logo=windowsxp" alt="windowsxp">
+    <img src="https://img.shields.io/badge/Kali Linux-black?style=flat-square&logo=kalilinux" alt="kalilinux">
+    <img src="https://img.shields.io/badge/macOS-white?style=flat-square&logo=macos&logoColor=000000" alt="macos">
 
+</p>
 
 
 
