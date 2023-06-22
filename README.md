@@ -82,7 +82,9 @@ _Can contribute to any open source projects -especially if it's about bioinforma
     <img src="https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark" alt="wireshark">
 
 </p>
+
 ----
+
 ## Operating Systems I use:
 <p align="left">
     <img src="https://img.shields.io/badge/Windows 10-blue?style=flat-square&logo=windows" alt="windows10">
