@@ -94,6 +94,7 @@ _Can contribute to any open source projects -especially if it's about bioinforma
 
 </p>
 
+![Image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
