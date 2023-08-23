@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp" alt="WhatsApp" >
 </a>
 
-I'm Doruk Alp Uzunarslan. I'm 14 years old and I live in Istanbul, Turkey. I'm always up for something new. I'm eager to learn new programming languages. 
+I'm Doruk Alp Uzunarslan and I live in Istanbul, Turkey. I'm always up for something new. I'm eager to learn new programming languages. 
 
 _Can contribute to any open source project -especially if it's about bioinformatics-_
 
