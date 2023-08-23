@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center"> Welcome to my page 👋</h1>
 
-<a href="https://www.linkedin.com/in/doruk-alp-uzunarslan-5a853026b/">
+<a href="https://www.linkedin.com/in/doruk-alp-uzunarslan/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 
